@@ -1,4 +1,4 @@
-package com.gfg.stepcounter;
+package com.gfg.gfgsos;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.gfg.stepcounter", appContext.getPackageName());
+        assertEquals("com.gfg.gfgsos", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.gfg.stepcounter;
+package com.gfg.gfgsos;
 
 import org.junit.Test;
 
